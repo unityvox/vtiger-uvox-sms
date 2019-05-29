@@ -1,4 +1,14 @@
 # UVox & Vtiger SMS Notified.
+
+**About The API**
+The UVox API provides a simple but powerful interface that allows you to integrate your own applications with the UVox services. An extensive set of actions can be performed using this API, such as sending SMS, Checking Balance, Checking call rates, Supplying QR Codes for Softphone, Vtiger CRM Integration and other operational data. As such, this interface is the ideal tool for creating alternative dashboards, developing mobile applications and automating front-end and back-end applications.
+
+The UVox API is a fully compatible implementation of the JSON API specification, which defines how an application should request that resources be retrieved or modified, and how a server should respond to those requests. This REST (Representational State Transfer) interface provides an easy-to-use set of HTTP endpoints that allow you to access our services using the GET, PUT, POST methods.
+
+THIS DOCUMENT ASSUMES THAT IT IS FAMILIAR WITH THE CONCEPTS OF WEB PROGRAMMING, THE FORMATS OF WEB DATA AND WITH THE SPECIFICATION OF THE JSON API. ADDITIONAL INFORMATION ABOUT JSON IS AVAILABLE ON YOUR OFFICIAL WEBSITE.
+
+<a href="https://unityvox.com" target="_blank">UVox | IP Communications</a>
+
 This feature gives you the flexibility to send text messages to your customers. You can send text messages to multiple records in one shot. In addition to manually sending messages, you can also send automatic notifications activated by workflows in Vtiger CRM. 
 
 First you must download our library and save the content via FTP in /path CRM Vtiger/modules/SMSNotifier/providers
