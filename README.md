@@ -53,3 +53,6 @@ To send SMS to records in the list view.
 
 <img src="https://unityvox.com/assets/web/images/vtiger_6.png">
 
+
+**Problemas / Contribuciones**
+¿Encontró un error o perdió una característica? Regístrese <a href="https://github.com/unityvox/vtiger-uvox-sms/issues">aquí</a> y echaremos un vistazo.
