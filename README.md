@@ -7,7 +7,7 @@ The UVox API is a fully compatible implementation of the JSON API specification,
 
 THIS DOCUMENT ASSUMES THAT IT IS FAMILIAR WITH THE CONCEPTS OF WEB PROGRAMMING, THE FORMATS OF WEB DATA AND WITH THE SPECIFICATION OF THE JSON API. ADDITIONAL INFORMATION ABOUT JSON IS AVAILABLE ON YOUR OFFICIAL WEBSITE.
 
-<a href="https://unityvox.com" target="_blank">UVox | IP Communications</a>
+[UVox | IP Communications](https://unityvox.com)
 
 This feature gives you the flexibility to send text messages to your customers. You can send text messages to multiple records in one shot. In addition to manually sending messages, you can also send automatic notifications activated by workflows in Vtiger CRM. 
 
@@ -54,5 +54,5 @@ To send SMS to records in the list view.
 <img src="https://unityvox.com/assets/web/images/vtiger_6.png">
 
 
-**Problemas / Contribuciones**
-¿Encontró un error o perdió una característica? Regístrese <a href="https://github.com/unityvox/vtiger-uvox-sms/issues">aquí</a> y echaremos un vistazo.
+## Problemas / Contribuciones 
+Found a bug or missing a feature? Log it [here](https://github.com/unityvox/vtiger-uvox-sms/issues) and we will take a look.
