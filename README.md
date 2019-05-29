@@ -11,7 +11,19 @@ THIS DOCUMENT ASSUMES THAT IT IS FAMILIAR WITH THE CONCEPTS OF WEB PROGRAMMING, 
 
 This feature gives you the flexibility to send text messages to your customers. You can send text messages to multiple records in one shot. In addition to manually sending messages, you can also send automatic notifications activated by workflows in Vtiger CRM. 
 
-First you must download our library and save the content via FTP in /path CRM Vtiger/modules/SMSNotifier/providers
+## Install Console
+
+```
+cd /var/www/html/vtigercrm/modules/SMSNotifier/providers
+
+wget  https://github.com/unityvox/vtiger-uvox-sms/blob/master/UVox.php
+
+```
+## Install FTP
+
+[Download](https://github.com/unityvox/vtiger-uvox-sms/blob/master/UVox.php)
+
+save the content via FTP in /path CRM Vtiger/modules/SMSNotifier/providers
 
 - Click on the SMS Notifier tab. You can find it in All the drop-down menus in the menu bar.
 - Click on the wrench icon> Server configuration
