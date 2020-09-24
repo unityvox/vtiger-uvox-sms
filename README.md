@@ -68,3 +68,5 @@ To send SMS to records in the list view.
 
 ## Problemas / Contribuciones 
 Found a bug or missing a feature? Log it [here](https://github.com/unityvox/vtiger-uvox-sms/issues) and we will take a look.
+
+//Developer -> Roberto Story https://github.com/robertostory - https://robertostory.com
